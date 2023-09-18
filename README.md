@@ -18,7 +18,7 @@ Feel free to explore the contents of this repository, browse through the project
 
 ## Contact Information
 
-If you'd like to get in touch with me or learn more about my internship experience, you can reach me at [Your Email Address]. I'd be happy to share my insights, experiences, and discuss any collaborative opportunities.
+If you'd like to get in touch with me or learn more about my internship experience, you can reach me at aman.sharma.officially@gmail.com . I'd be happy to share my insights, experiences, and discuss any collaborative opportunities.
 
 Thank you for visiting my repository, and I hope you find my work informative and engaging.
 
