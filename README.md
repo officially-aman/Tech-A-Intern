@@ -6,7 +6,7 @@ Welcome to my GitHub repository! This repository serves as a documentation and s
 
 ## About the Internship
 
-In the year [Year], I had the wonderful opportunity to undertake a virtual internship with TECH-A-INTERN. Throughout this internship, I honed my skills as a Java Programmer, gaining valuable real-world experience in software development, coding best practices, and collaborative teamwork.
+In the year 2023, I had the wonderful opportunity to undertake a virtual internship with TECH-A-INTERN. Throughout this internship, I honed my skills as a Java Programmer, gaining valuable real-world experience in software development, coding best practices, and collaborative teamwork.
 
 ## Repository Contents
 
