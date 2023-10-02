@@ -1,4 +1,4 @@
-<BR>📚 **Building an Address Book App in Java: Empowering Better Contact Management!**
+<P>📚 **Building an Address Book App in Java: Empowering Better Contact Management!**
 
 In today's digital age, efficient contact management is more important than ever. I'm excited to share a project I've been working on: an Address Book application coded in Java that empowers users to organize and access their contact information seamlessly.
 
